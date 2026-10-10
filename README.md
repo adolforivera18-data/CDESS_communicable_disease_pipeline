@@ -4,6 +4,14 @@ An AWS-based data engineering and public health surveillance project that transf
 
 The pipeline uses **Amazon S3**, **Amazon Athena**, **AWS Lambda**, and **Amazon QuickSight (SPICE)** to calculate annual communicable disease case counts and incidence rates per 100,000 population using **ACS 1-Year and ACS 5-Year** population estimates.
 
+## Pipeline classification
+
+**Serverless AWS ETL Pipeline for Communicable Disease Surveillance**
+
+This project implements an **on-demand, automated batch ETL pipeline** built on an **Amazon S3 data lake**. County-level CDESS case extracts, ACS population estimates, and disease classification reference data are prepared and uploaded to S3; Amazon Athena then transforms these inputs into curated, population-adjusted communicable disease incidence rates stored as Parquet. AWS Lambda orchestrates the Athena rebuild and initiates an Amazon QuickSight SPICE refresh for interactive public health reporting.
+
+The pipeline is **batch-based rather than real-time**, **serverless**, and **manually triggered** after the required source datasets have been updated. Source acquisition and S3 uploads are manual; the downstream transformation, curated-table rebuild, and refresh initiation are automated.
+
 > **Data privacy:** Do not publish case-level CDESS extracts, restricted datasets, personal information, AWS access keys, or secrets in this repository. Publish only approved code, documentation, and appropriately reviewed dashboard screenshots.
 
 ## Project objectives
