@@ -1,0 +1,67 @@
+﻿DISEASENAME,disease_type
+AMEBIASIS,Enteric Disease
+"ANAPLASMOSIS, ANAPLASMA PHAGOCYTOPHILUM",Vector Borne Disease
+BABESIOSIS,Vector Borne Disease
+"BOTULISM, INFANT",Central Nervous System Disease
+BRUCELLOSIS,Zoonotic Disease
+"CALICIVIRUS, OUTBREAK RELATED",Enteric Disease
+CAMPYLOBACTERIOSIS,Enteric Disease
+CANDIDA AURIS,Fungal Disease
+Congenital Zika virus infection (asymptomatic),Vector Borne Disease
+COVID-19,Respiratory Disease
+CRYPTOSPORIDIOSIS,Enteric Disease
+CYCLOSPORA,Enteric Disease
+DENGUE FEVER,Vector Borne Disease
+E COLI SHIGA TOXIN,Enteric Disease
+"E COLI, NOV 2006 OUTBREAK",Enteric Disease
+"EHRLICHIOSIS, EHRLICHIA CHAFFEENIS",Vector Borne Disease
+EHRLICHIOSIS/ANAPLASMOSIS UNDETERMINED,Vector Borne Disease
+"ENCEPH POST, OTH INFEC",Central Nervous System Disease
+"ENCEPH, BACTERIAL",Central Nervous System Disease
+"ENCEPH, OTHER VIRAL",Central Nervous System Disease
+"ENCEPH, UNKNOWN",Central Nervous System Disease
+GIARDIASIS,Enteric Disease
+"HAEMOPHILUS INFLUENZAE, INV B",Central Nervous System Disease
+"HAEMOPHILUS INFLUENZAE, INVASIVE NOT B",Central Nervous System Disease
+"HERPES INF, INFANT =< 60 DAYS",Other
+"INFLUENZA, A",Respiratory Disease
+"INFLUENZA, B",Respiratory Disease
+"INFLUENZA, PEDIATRIC DEATH",Respiratory Disease
+"INFLUENZA, UNSPECIFIED",Respiratory Disease
+LEGIONELLOSIS,Respiratory Disease
+LISTERIOSIS Non Pregnancy,Central Nervous System Disease
+LISTERIOSIS Pregnancy,Central Nervous System Disease
+LYME DISEASE,Vector Borne Disease
+MALARIA,Vector Borne Disease
+"MEASLES, IMP NON-US",Vaccine Preventable Disease
+"MEASLES, IMPORT US",Vaccine Preventable Disease
+MELIOIDOSIS,Other
+MENING. OTH BACTERIAL,Central Nervous System Disease
+"MENINGITIS, ASEPTIC",Central Nervous System Disease
+MENINGOCOCCAL INFECTION,Central Nervous System Disease
+Multisystem Inflammatory Syndrome C (MIS-C),Other
+MUMPS,Vaccine Preventable Disease
+PERTUSSIS,Vaccine Preventable Disease
+POWASSAN VIRUS NEUROINVASIVE,Central Nervous System Disease
+Q FEVER ACUTE,Zoonotic Disease
+ROCKY MTN SPOTD FE,Vector Borne Disease
+RSV Pediatric Death,Respiratory Disease
+RSV Subtype A,Respiratory Disease
+RSV Subtype B,Respiratory Disease
+RSV Unspecified,Respiratory Disease
+RUBELLA,Other
+SALMONELLOSIS,Enteric Disease
+SALMONELLOSIS - paratyphi,Enteric Disease
+SHIGELLOSIS,Enteric Disease
+"STREP GROUP A, INVASIVE",Central Nervous System Disease
+"STREP GROUP B, INVASIVE",Central Nervous System Disease
+"STREP GRP B, INVASIVE, ERLY/LATE",Central Nervous System Disease
+STREP PNEUMO INVASIVE DISEASE,Central Nervous System Disease
+STREP PNEUMO INVASIVE INTERMED,Central Nervous System Disease
+"STREP PNEUMO INVASIVE, UNKNOWN",Central Nervous System Disease
+"STREP PNEUMONIAE, INVASIVE, DRUG RESISTANT",Central Nervous System Disease
+Swine-Origin Influenza A (H1N1) Virus (S-OIV),Respiratory Disease
+TYPHOID,Enteric Disease
+VARICELLA,Vaccine Preventable Disease
+VIBRIO,Enteric Disease
+YERSINIOSIS,Enteric Disease
